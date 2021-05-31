@@ -6,7 +6,9 @@
   "scripts": {
     "watch:sass": "node-sass src/sass/main.scss src/css/style.css -w",
     "compile:sass": "node-sass sass/main.scss css/style.comp.css",
-    "docs": "jsdoc -c jsdoc.json"
+    "docs": "jsdoc -c jsdoc.json",
+    "build": "parcel build index.html",
+    "start": "parcel index.html"
   },
   "author": "Mohammed Zourdy",
   "license": "MIT",
