@@ -1,5 +1,6 @@
-24023
-64/home/zourdythedev/css-jonas-advanced/Natours/starter/index.html1622469265196000900 0
+24024
+64/home/zourdythedev/css-jonas-advanced/Natours/starter/index.html1622470319916000900 0
+59/home/zourdythedev/css-jonas-advanced/Natours/starter/build1622470059726000900 1
 63/home/zourdythedev/css-jonas-advanced/Natours/starter/readme.md1618146558635590300 0
 97/home/zourdythedev/css-jonas-advanced/Natours/starter/docs/fonts/OpenSans-LightItalic-webfont.svg1618146617155590300 0
 90/home/zourdythedev/css-jonas-advanced/Natours/starter/docs/fonts/OpenSans-Bold-webfont.eot1618146617145590300 0
@@ -4123,7 +4124,7 @@
 85/home/zourdythedev/css-jonas-advanced/Natours/starter/node_modules/@parcel/logger/lib1622468723576000900 1
 89/home/zourdythedev/css-jonas-advanced/Natours/starter/node_modules/@parcel/logger/LICENSE499162500000000000 0
 87/home/zourdythedev/css-jonas-advanced/Natours/starter/node_modules/lodash/_baseClamp.js499162500000000000 0
-53/home/zourdythedev/css-jonas-advanced/Natours/starter1622469794796000900 1
+53/home/zourdythedev/css-jonas-advanced/Natours/starter1622470328076000900 1
 85/home/zourdythedev/css-jonas-advanced/Natours/starter/node_modules/async-foreach/dist1617638624310000000 1
 104/home/zourdythedev/css-jonas-advanced/Natours/starter/node_modules/@parcel/scope-hoisting/.eslintrc.json499162500000000000 0
 129/home/zourdythedev/css-jonas-advanced/Natours/starter/node_modules/postcss-unique-selectors/node_modules/postcss/lib/stringify.js499162500000000000 0
@@ -9065,7 +9066,7 @@
 95/home/zourdythedev/css-jonas-advanced/Natours/starter/node_modules/css-tree/lib/walker/index.js499162500000000000 0
 90/home/zourdythedev/css-jonas-advanced/Natours/starter/node_modules/restore-cursor/index.js499162500000000000 0
 75/home/zourdythedev/css-jonas-advanced/Natours/starter/node_modules/mimic-fn1622468724056000900 1
-66/home/zourdythedev/css-jonas-advanced/Natours/starter/package.json1622468927526000900 0
+66/home/zourdythedev/css-jonas-advanced/Natours/starter/package.json1622470086226000900 0
 118/home/zourdythedev/css-jonas-advanced/Natours/starter/node_modules/@babel/helper-define-polyfill-provider/lib/visitors1622468727606000900 1
 118/home/zourdythedev/css-jonas-advanced/Natours/starter/node_modules/node-sass/test/fixtures/input-directory/sass/nested1617638625630000000 1
 85/home/zourdythedev/css-jonas-advanced/Natours/starter/node_modules/node-forge/LICENSE499162500000000000 0
